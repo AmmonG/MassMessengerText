@@ -1,9 +1,3 @@
-That's a smart move to drive traffic to your website and streamline the license request process\! Integrating the video tutorial is a great way to improve user onboarding.
-
-Here is the revised "Getting Started" section with the updated licensing instructions, emphasizing the website.
-
------
-
 # 💬 MassMessenger
 
 MassMessenger is a simple, powerful macOS app for sending bulk messages quickly and securely.
