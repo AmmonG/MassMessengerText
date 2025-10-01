@@ -30,6 +30,7 @@ MassMessenger is a simple, powerful macOS app for sending bulk messages quickly 
 ## 🛠 Troubleshooting
 
   - Make sure you’re running the latest version of macOS.
+  - Be sure to watch the tutorial located on our website **[https://massmessengertext.wixsite.com/massmessenger](https://massmessengertext.wixsite.com/massmessenger)** which provides detailed instructions on how to get everything running.
   - Still stuck? Reach out to 📨 **Mass.Messenger.Text@gmail.com**.
 
 -----
