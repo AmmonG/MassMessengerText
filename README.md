@@ -14,6 +14,7 @@ MassMessenger is a simple, powerful macOS app for sending bulk messages quickly 
 
   - Double-click **MassMessenger.app** to start.
   - If you see a security warning, go to **System Settings \> Privacy & Security** and click “Allow Anyway” or "Open Anyway" to run the app.
+  - Be sure to drag your **MassMessenger.app** into applications in Finder so it is saved and won't be accidentally deleted in downloads.
 
 ### 3\. Activate Your License
 
